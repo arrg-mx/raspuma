@@ -20,7 +20,7 @@ Implementar un esquema de gemelos digitales en la plantaforma de desarrollo Rasp
 - [ ] Diseño y contrucción del circuito de potencia de los motores (PCV)
 - [ ] Diseño y contrucción del circuito de sensado del robot (PCV)
 - [ ] Desarrollo de los elementos del metapaquete del robot.
-    - [ ]   descvription
+    - [ ]   description
     - [ ]   bringup
     - [ ]   openCV
     - [ ]   gazebo
