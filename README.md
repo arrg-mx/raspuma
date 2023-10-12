@@ -29,7 +29,9 @@
 
 | Nombre | Observaciones |
 | :----------| :----------- |
-| Marko Jhmail Flores | **responsable** | 
+| Marko Jhmail Flores | **responsable** |
+| Emilio Arias Perea | **Auxiliar (S.S)** | 
+
 
 ## Referencias
 
@@ -38,4 +40,5 @@
 **Academics**
 
 1. Josh Newans, Making a Mobile Robot with ROS - Full list of tutorials, Articulated Robotics [Blog] (https://articulatedrobotics.xyz/mobile-robot-full-list/)
-2. 
+2. Peña Medina Erik, Repositorio del proyecto [Repositorio] (https://github.com/mrg-mex/Proyecto_02_semestre_2023-1).
+3. Reporte de Semestre 2023-2, se encuentra en la carpeta de documentos de este repositorio. 
