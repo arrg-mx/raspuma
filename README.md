@@ -1,14 +1,18 @@
 # ROS2 Humble, 2024-I - Raspuma
 
+
+## Contenido
+
+- [Objetivo](#objetivo)
+- [Desarrollo](#desarrollo)
+- [Equipo](#equipo)
+- [Referencias](#referencias)
+
 ## Objetivo
 
 Implementar un esquema de gemelos digitales en la plantaforma de desarrollo Raspuma, la cual consistura en un entorno de pruebas virtual basada en un entorno contorlado físico. La plataforma permitirá realizar pruebas e implementar algoritmos de navegación autónoma, visión artificial e inteligencia artíficial.
 
-## Contenido
 
-- [Desarrollo](#desarrollo)
-- [Equipo](#equipo)
-- [Referencias](#referencias)
 
 ## Desarrollo
 
